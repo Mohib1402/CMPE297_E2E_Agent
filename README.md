@@ -23,7 +23,7 @@ A detailed walkthrough shows:
 * Running the Colab notebook end-to-end
 * Uploading receipts and asking questions about spending
 
-**Video link:** [DEMO](www.youtube.com)
+**Video link:** [DEMO](https://drive.google.com/file/d/1Oup11Q4DMp2SxrD8RchCvxee6MH8axh4/view?usp=sharing)
 
 ---
 
